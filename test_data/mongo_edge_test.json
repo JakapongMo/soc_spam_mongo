@@ -1,0 +1,9 @@
+[
+{'from':1, 'to': 2, 'edge' : 0.91},
+{'from':1, 'to': 3, 'edge' : 0.31},
+{'from':1, 'to': 4, 'edge' : 0.61},
+{'from':1, 'to': 6, 'edge' : 0.71},
+{'from':2, 'to': 3, 'edge' : 0.56},
+{'from':4, 'to': 5, 'edge' : 0.92},
+{'from':4, 'to': 6, 'edge' : 0.94}
+]
